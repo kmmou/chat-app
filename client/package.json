@@ -5,6 +5,7 @@
   "proxy": "http://127.0.0.1:5000",
   "dependencies": {
     "@babel/core": "^7.22.5",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@chakra-ui/icons": "^2.1.1",
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.1",
